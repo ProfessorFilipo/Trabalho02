@@ -34,7 +34,7 @@ pos_x = (LARGURA_TELA - tam_personagem) // 2
 pos_y = (ALTURA_TELA - tam_personagem) // 2
 
 # Velocidade de movimento (pixels que ele percorrerá por frame)
-velocidade = 6
+velocidade = 5
 
 # -----------------------------------------------------------------------------
 # CARREGAMENTO DA IMAGEM (COM FALLBACK SE O ARQUIVO NÃO EXISTIR)
